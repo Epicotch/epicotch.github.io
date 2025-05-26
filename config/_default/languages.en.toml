@@ -1,0 +1,23 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Bernard Jin's Portfolio"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+email = "mailto:bernardjin5@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/epicotch"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/bernard-jin-462369270/"
+
+["params.author"]
+name = "Bernard Jin"

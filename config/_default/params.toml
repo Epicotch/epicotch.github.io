@@ -15,6 +15,7 @@ selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
 rssnext = { }
+smartTOC = true
 
 [header]
 layout = "basic"
@@ -28,13 +29,14 @@ showScrollToTop = true
 
 [homepage]
 layout = "page"
-showRecent = true
+showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = true
 layoutBackgroundBlur = false
+homepageImage = "homepage.jpg"
 
 [article]
 showDate = true
@@ -42,7 +44,7 @@ showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
@@ -55,7 +57,7 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true

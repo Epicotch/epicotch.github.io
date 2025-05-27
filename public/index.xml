@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bernard Jin&#39;s Portfolio</title>
-    <link>http://localhost:50410/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Bernard Jin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Bernard Jin</copyright>
-    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50410/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Toolchanger</title>
-      <link>http://localhost:50410/projects/1748228026020-toolchanger/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/projects/1748228026020-toolchanger/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50410/projects/1748228026020-toolchanger/</guid>
+      <guid>http://localhost:1313/projects/1748228026020-toolchanger/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50410/projects/1748228026020-toolchanger/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/1748228026020-toolchanger/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Power line sensing</title>
+      <link>http://localhost:1313/projects/1748373859540-power-line-sensing/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/1748373859540-power-line-sensing/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/1748373859540-power-line-sensing/featured.png" />
     </item>
     
   </channel>

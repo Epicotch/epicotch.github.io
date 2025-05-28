@@ -2,121 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bernard Jin&#39;s Portfolio</title>
-    <link>http://localhost:51505/</link>
+    <link>http://localhost:58082/</link>
     <description>Recent content on Bernard Jin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Bernard Jin</copyright>
-    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51505/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58082/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Misc. projects</title>
-      <link>http://localhost:51505/projects/1748456583000-misc.-projects/</link>
+      <link>http://localhost:58082/projects/1748456583000-misc.-projects/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748456583000-misc.-projects/</guid>
+      <guid>http://localhost:58082/projects/1748456583000-misc.-projects/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>Extensional rheometer</title>
-      <link>http://localhost:51505/projects/1748406366626-extensional-rheometer/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:51505/projects/1748406366626-extensional-rheometer/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748406366626-extensional-rheometer/featured.jpg" />
     </item>
     
     <item>
       <title>Drone</title>
-      <link>http://localhost:51505/projects/1748454348851-drone/</link>
+      <link>http://localhost:58082/projects/1748454348851-drone/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748454348851-drone/</guid>
+      <guid>http://localhost:58082/projects/1748454348851-drone/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748454348851-drone/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748454348851-drone/featured.png" />
     </item>
     
     <item>
       <title>Toolchanger</title>
-      <link>http://localhost:51505/projects/1748228026020-toolchanger/</link>
+      <link>http://localhost:58082/projects/1748228026020-toolchanger/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748228026020-toolchanger/</guid>
+      <guid>http://localhost:58082/projects/1748228026020-toolchanger/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748228026020-toolchanger/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748228026020-toolchanger/featured.jpg" />
     </item>
     
     <item>
       <title>D-dot sensor</title>
-      <link>http://localhost:51505/projects/1748373859540-power-line-sensing/</link>
+      <link>http://localhost:58082/projects/1748373859540-power-line-sensing/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748373859540-power-line-sensing/</guid>
+      <guid>http://localhost:58082/projects/1748373859540-power-line-sensing/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748373859540-power-line-sensing/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748373859540-power-line-sensing/featured.png" />
     </item>
     
     <item>
       <title>Wireless buzzers</title>
-      <link>http://localhost:51505/projects/1748389382390-wireless-buzzers/</link>
+      <link>http://localhost:58082/projects/1748389382390-wireless-buzzers/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748389382390-wireless-buzzers/</guid>
+      <guid>http://localhost:58082/projects/1748389382390-wireless-buzzers/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748389382390-wireless-buzzers/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748389382390-wireless-buzzers/featured.png" />
     </item>
     
     <item>
       <title>Skateboard</title>
-      <link>http://localhost:51505/projects/1748393834016-skateboard/</link>
+      <link>http://localhost:58082/projects/1748393834016-skateboard/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748393834016-skateboard/</guid>
+      <guid>http://localhost:58082/projects/1748393834016-skateboard/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748393834016-skateboard/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748393834016-skateboard/featured.png" />
     </item>
     
     <item>
       <title>Eye Tracking Headlamp</title>
-      <link>http://localhost:51505/projects/1748395685345-eye-tracking-headlamp/</link>
+      <link>http://localhost:58082/projects/1748395685345-eye-tracking-headlamp/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748395685345-eye-tracking-headlamp/</guid>
+      <guid>http://localhost:58082/projects/1748395685345-eye-tracking-headlamp/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748395685345-eye-tracking-headlamp/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748395685345-eye-tracking-headlamp/featured.png" />
     </item>
     
     <item>
       <title>Data glove</title>
-      <link>http://localhost:51505/projects/1748401657434-data-glove/</link>
+      <link>http://localhost:58082/projects/1748401657434-data-glove/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748401657434-data-glove/</guid>
+      <guid>http://localhost:58082/projects/1748401657434-data-glove/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748401657434-data-glove/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748401657434-data-glove/featured.png" />
     </item>
     
     <item>
       <title>CNC Router</title>
-      <link>http://localhost:51505/projects/1748402810186-cnc-router/</link>
+      <link>http://localhost:58082/projects/1748402810186-cnc-router/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748402810186-cnc-router/</guid>
+      <guid>http://localhost:58082/projects/1748402810186-cnc-router/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748402810186-cnc-router/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748402810186-cnc-router/featured.png" />
     </item>
     
     <item>
       <title>Baby&#39;s first 3D printer</title>
-      <link>http://localhost:51505/projects/1748405390093-babys-first-3d-printer/</link>
+      <link>http://localhost:58082/projects/1748405390093-babys-first-3d-printer/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51505/projects/1748405390093-babys-first-3d-printer/</guid>
+      <guid>http://localhost:58082/projects/1748405390093-babys-first-3d-printer/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748405390093-babys-first-3d-printer/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58082/projects/1748405390093-babys-first-3d-printer/featured.png" />
     </item>
     
   </channel>

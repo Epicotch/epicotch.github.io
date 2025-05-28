@@ -1,7 +1,7 @@
 ---
 title: "Extensional rheometer"
 date: 2025-02-01
-draft: false
+draft: true
 description: "Rheometer"
 tags: ["In progress", "UROP"]
 ---

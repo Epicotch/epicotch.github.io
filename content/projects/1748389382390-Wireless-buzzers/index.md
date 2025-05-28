@@ -30,11 +30,6 @@ Finally, I implemented a lockout system preventing others from buzzing after the
 The first few times I brought the buzzers to club, there were still a few issues to iron out. Specifically, the master console could not handle simultanous buzzes (and just crashed), and disconnections would result in everyone needing to reset all their buzzers. However, after solving these issues, we were able to use these buzzers for practice for the rest of the year.
 ![Buzzers being used in club](club.png "Buzzers being used in club")
 ## Gallery
-![Complete set of 4 buzzers](buzzers.png "Complete set of 4 buzzers")
-![PCB Layout](layout.png "PCB layout")
-![Early code and electronics testing](image.png "Early code and electronics testing")
-![PCB and case](image-1.png "PCB and case")
-![Buzzer interior with case components](image-2.png "Buzzer interior and case components")
 {{< gallery >}}
 <img src="buzzers.png" class="grid-w50">
 <img src="layout.png" class="grid-w50">

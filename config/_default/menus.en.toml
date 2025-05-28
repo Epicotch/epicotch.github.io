@@ -11,24 +11,27 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About Me"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
   name = "Projects"
-  weight = 20
+  pageRef = "projects"
+  weight = 10
 
 [[main]]
   name = "In progress"
   parent = "Projects"
+  pageRef = "tags/in-progress"
   weight = 20
 
 [[main]]
   name = "Completed"
   parent = "Projects"
+  pageRef = "tags/completed"
   weight = 30
 
+[[main]]
+  name = "Miscellaneous"
+  parent = "Projects"
+  pageRef = "projects/1748456583000-misc.-projects"
+  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

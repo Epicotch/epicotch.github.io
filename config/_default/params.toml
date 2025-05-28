@@ -28,15 +28,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "page"
-showRecent = false
-showRecentItems = 5
+layout = "profile"
+showRecent = true
+showRecentItems = "100"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = true
-cardViewScreenWidth = true
+cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "homepage.jpg"
+homepageImage = "profile.png"
 
 [article]
 showDate = true
@@ -59,7 +59,7 @@ invertPagination = false
 showReadingTime = true
 showTableOfContents = true
 showTaxonomies = false
-showAuthorsBadges = false
+showAuthorsBadges = true
 showWordCount = true
 showZenMode = false
 

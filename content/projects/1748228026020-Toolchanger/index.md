@@ -27,5 +27,7 @@ A quirk of this printer is how many motors it uses. While most printers use 4 (X
 ![Electronics of the toolchanger](electronics.jpg)
 
 ## Gallery
-![Hotend cross-section](hotendcross.png "Hotend cross-section")
-![Completed multi-color prints](benchies.png "Completed multi-color prints")
+{{< gallery >}}
+<img src="hotendcross.png" class="grid-w50">
+<img src="benchies.png" class="grid-w50">
+{{< /gallery >}}

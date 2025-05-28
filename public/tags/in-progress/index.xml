@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In Progress on Bernard Jin&#39;s Portfolio</title>
+    <link>http://localhost:51505/tags/in-progress/</link>
+    <description>Recent content in In Progress on Bernard Jin&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Bernard Jin</copyright>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51505/tags/in-progress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Extensional rheometer</title>
+      <link>http://localhost:51505/projects/1748406366626-extensional-rheometer/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:51505/projects/1748406366626-extensional-rheometer/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748406366626-extensional-rheometer/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Drone</title>
+      <link>http://localhost:51505/projects/1748454348851-drone/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:51505/projects/1748454348851-drone/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51505/projects/1748454348851-drone/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

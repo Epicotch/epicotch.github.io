@@ -2,19 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bernard Jin&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:51505/tags/</link>
     <description>Recent content in Tags on Bernard Jin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Bernard Jin</copyright>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51505/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Misc</title>
+      <link>http://localhost:51505/tags/misc/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:51505/tags/misc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>http://localhost:51505/tags/in-progress/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:51505/tags/in-progress/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UROP</title>
+      <link>http://localhost:51505/tags/urop/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:51505/tags/urop/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Completed</title>
-      <link>http://localhost:1313/tags/completed/</link>
+      <link>http://localhost:51505/tags/completed/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/completed/</guid>
+      <guid>http://localhost:51505/tags/completed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internship</title>
+      <link>http://localhost:51505/tags/internship/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:51505/tags/internship/</guid>
       <description></description>
       
     </item>

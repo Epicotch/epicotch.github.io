@@ -21,3 +21,5 @@ linkedin = "https://www.linkedin.com/in/bernard-jin-462369270/"
 
 ["params.author"]
 name = "Bernard Jin"
+image = "profile.png"
+headline = "It's me!"

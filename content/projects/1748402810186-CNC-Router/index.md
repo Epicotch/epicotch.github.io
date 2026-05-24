@@ -24,7 +24,7 @@ As this machine was to be working indoors, I also designed a dust shoe to collec
 
 Though the machine was no good, this experience taught me a lot - how to work with aluminum extrusion, the basics of frame design and statics, and how to use a CNC machine.
 ### Gallery
-{{< video src="firstattempt" >}}
+{{< video src="firstattempt.mp4" >}}
 {{< gallery >}}
 <img src="image.png" class="grid-w50">
 <img src="image-1.png" class="grid-w50">

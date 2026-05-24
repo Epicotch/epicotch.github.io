@@ -21,13 +21,13 @@ For ease of use, I wanted to minimize the interactions the students had to go th
 
 {{< carousel images="pairingexplanation/*" >}}
 
-{{< video src="autoconnect" >}}
+{{< video src="autoconnect.mp4" >}}
 
 Upon connecting, each buzzer is also given a unique idenfitication number, so the proctor can tell who buzzed.
 
 In order to be able to easily tell who buzzed, I put an OLED screen on the box, as well as the loudest buzzer I could find (that the board could power). The OLED screen would display the letter and the number of the buzzer according to the Science Bowl format, allowing the proctor to easily see who buzzed.
 
-{{< video src="buzz" >}}
+{{< video src="buzz.mp4" >}}
 
 Finally, I implemented a lockout system preventing others from buzzing after the first person buzzed. Buzzes could be cleared by pressing the buzzer connected to the first buzzer slot of the master console.
 ## In use

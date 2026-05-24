@@ -6,7 +6,7 @@ description: "Toolchanger entry"
 tags: ["Completed"]
 ---
 ![The printer!](printer.png)
-[Printer CAD](cad.onshape.com/documents/a5e473ce96770de6f7d85d0b/w/bd775ddb5e4d79728f467c52/e/3deef4354fbe6b5467a0b953), [Hotend CAD](cad.onshape.com/documents/46dc7545bde7914645d91a54/w/5611eb56c6c3defb5681386b/e/2065edcf0676d0bbf2a34f75)
+{{< button href="https://cad.onshape.com/documents/a5e473ce96770de6f7d85d0b/w/bd775ddb5e4d79728f467c52/e/3deef4354fbe6b5467a0b953" >}} Printer CAD {{< /button >}} {{< button href="https://cad.onshape.com/documents/46dc7545bde7914645d91a54/w/5611eb56c6c3defb5681386b/e/2065edcf0676d0bbf2a34f75" >}} Hotend CAD {{< /button >}}
 
 In summer 2024, I decided to revisit one of my old projects, except now with the knowledge and experience needed to actually do it right. This, combined with the recent release of the [Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-semi-assembled-single-toolhead-3d-printer/) and the [retirement of the E3D toolchanger](https://e3d-online.com/blogs/news/tc-discontinued) (you will forever be in our hearts) led me to try and design a toolchanging printer of my own.
 ## Design

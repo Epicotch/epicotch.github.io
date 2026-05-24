@@ -7,7 +7,11 @@ tags: ["Completed"]
 ---
 ![Buzzer box](buzzerbox.png)
 
-[Github](https://github.com/Epicotch/Wireless-Buzzers), [CAD](https://cad.onshape.com/documents/be3b52bcdf6f61d23120cde6/w/8980feb9664c58ae24ebe7fa/e/2e3678f5986a811a7a830685)
+{{< button href="https://github.com/Epicotch/Wireless-Buzzers" >}}
+Github
+{{< /button >}} {{< button href="https://cad.onshape.com/documents/be3b52bcdf6f61d23120cde6/w/8980feb9664c58ae24ebe7fa/e/2e3678f5986a811a7a830685" >}}
+CAD
+{{< /button >}}
 
 In high school, I helped coach a local middle school Science Bowl team. Unfortunately, their buzzers from last year no longer worked, and no commercial buzzer system could support their amount of simultaneous players and space requirements. Furthermore, due to the school's ban on personal devices, having them buzz via a website wasn't an option either. Furthermore, I was interesting in learning PCB design, and was looking for a project to implement it. As such, I took it upon myself to build them a set of wireless buzzers for practice.
 ## Design

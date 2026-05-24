@@ -8,7 +8,11 @@ tags: ["In progress"]
 
 ![The drone](featured.png)
 
-[Github](https://github.com/Epicotch/Epic-Drone), [CAD](https://cad.onshape.com/documents/60a38a968a7095625ac4a5dd/w/3d45a0af2e3ee89a2ddb7d66/e/9b0f4a39a1b3047c8f79d75b)
+{{< button href="https://github.com/Epicotch/Epic-Drone" >}}
+Github
+{{< /button >}} {{< button href="https://cad.onshape.com/documents/60a38a968a7095625ac4a5dd/w/3d45a0af2e3ee89a2ddb7d66/e/9b0f4a39a1b3047c8f79d75b" >}}
+CAD
+{{< /button >}}
 
 Having used Arduinos for a while, I wanted to move to something bigger and more industry-standard. As such, the natural next step would be to STMicroelectronics' STM32 chips. After playing around with a Nucleo board for a while, I decided to combine my interest in learning about STM32s with my interest in robotics and create an autonomous drone.
 ## Design

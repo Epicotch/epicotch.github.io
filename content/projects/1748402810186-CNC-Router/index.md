@@ -7,7 +7,13 @@ tags: ["Completed"]
 ---
 ![V3](featured.png)
 
-[V1 and V2 CAD](https://cad.onshape.com/documents/95fcb178b80c65dbbc1ee400/w/d05f93ca7a4e031817c5436f/e/f2989c41ccec56b765d5f432), [Y plate CAD](https://cad.onshape.com/documents/37da91f2170d8fc2f1bdcc3a/w/48488ea1e6c325fea867aeea/e/4429af80fef63bd4f1129240), [Z carriage](https://cad.onshape.com/documents/739f64a722e4aa1b82296dc4/w/785dd05a5acceb8fcf86c5d3/e/b3c57ec28e8996d5c6ae1b2f)
+{{< button href="https://cad.onshape.com/documents/95fcb178b80c65dbbc1ee400/w/d05f93ca7a4e031817c5436f/e/f2989c41ccec56b765d5f432">}}
+V1 and V2 CAD
+{{< /button >}} {{< button href="https://cad.onshape.com/documents/37da91f2170d8fc2f1bdcc3a/w/48488ea1e6c325fea867aeea/e/4429af80fef63bd4f1129240">}}
+Y plate CAD
+{{< /button >}} {{< button href="https://cad.onshape.com/documents/739f64a722e4aa1b82296dc4/w/785dd05a5acceb8fcf86c5d3/e/b3c57ec28e8996d5c6ae1b2f">}}
+Z carriage
+{{< /button >}}
 
 One of the big issues I encountered when building my 3D printer was manufacturing the frame. It was difficult manhandling the jigsaw to cut precisely where I wanted, and the drill holes never exactly lined up. Furthermore, as plate manufacturing is such a large thing in FTC, I wanted to be able to mull 1/8" 6061 T6 aluminum in house. As such, I set my sights on building a CNC machine. This machine was initially built in 2020, with improvements made in 2021 and 2022.
 ## V1 (2020)

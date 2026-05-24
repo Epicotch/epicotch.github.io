@@ -7,7 +7,16 @@ tags: ["Completed", "Internship"]
 ---
 {{< katex >}}
 ![Electronic setup](featured.png)
-[Poster](https://drive.google.com/file/d/1893rlhJyZfj8MQBtIDyjyEeDnDJqSdX2/view), [Writeup](https://drive.google.com/file/d/1corAnmnPk63qLdvq_lZ_vqyk2y0kxLap/view)
+
+
+
+{{< button href="https://drive.google.com/file/d/1893rlhJyZfj8MQBtIDyjyEeDnDJqSdX2/view" >}}
+Poster
+{{< /button >}}
+
+{{< button href="https://drive.google.com/file/d/1corAnmnPk63qLdvq_lZ_vqyk2y0kxLap/view" >}}
+Writeup
+{{< /button >}}
 
 In the summer of 2023, I took part in a JHU ASPIRE internship with the QPS group. My task was to design a D-dot sensor (a type of electric field sensor) to detect hidden powerlines throughout the building they were working in, as well as the parking lot outside. My mentor was Dr. Kevin Claytor.
 ## Theory

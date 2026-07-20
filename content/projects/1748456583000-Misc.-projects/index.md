@@ -1,6 +1,6 @@
 ---
 title: "Misc. projects"
-date: 2025-10-08
+date: 2099-01-01
 draft: false
 description: "other projects"
 tags: ["misc"]

@@ -30,13 +30,15 @@ While this could be achieved by delaying the time-domain signals in software, a 
 
 The STM32H747 was chosen as the MCU for its dual-core design. The microphone and beamforming logic is handled by the more performant M7 core, while logging and communication are handled by the M4 core. This setup allowed for a refresh rate of **6.2 Hz** for a 20x20 pixel grid. Messages are passed between the cores using HSEMs and OpenAMP.
 
-{{< youtube OdssDPeiULg >}}
+At higher frequencies, the aliasing comes from the furthest out microphones being spaced significantly apart, allowing for grating lobes. As such, to reduce aliasing, I implemented a dynamic frequency-based gain control algorithm that reduces the gain of the furthest microphones at higher frequencies.
+
+{{< youtube MOfOyhyP2JY >}}
+{{< youtube uX3yknxuVH0 >}}
 
 ## Next steps
 My goal for this project is to make it a portable all-in-once device that can be taken out to the field to track down birds. The PCB already has the hardware to support a camera and display, though hardware bugs prevent them from being implemented at this moment. Battery hardware is also included, though I didn't have the tools to safely implement a battery.
 
 I would also like to add more microphones for better directionality and a wider frequency range. While the ADCs I used do support up t 32 microphones, processing all this on an STM32 would result in an extremely slow refresh rate. As such, an FPGA microphone frontend would also be a nice touch, being able to accept more microphones and do faster signal processing all at once. A lower-performance MCU could then be used to handle the rest of the display/logging/storage logic.
 
-Finally, there is still a non-negligible amount of aliasing present due to the grating lobes caused by the microphones spread far apart. I plan to implement a filter to reduce the contributions of the further-out microphones based on frequency, hopefully reducing aliasing.
 ## What I learned
 This project taught me a lot about arrays of sensors, particularly how they can be analyzed using Fourier methods. I also learned a lot about implementing signal processing in memory and computation-constrained environments, and how to optimize such algorithms using methods such as lookup tables and approximation.
